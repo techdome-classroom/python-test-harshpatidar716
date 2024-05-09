@@ -23,6 +23,6 @@ class Solution:
 
         return num_islands
 
-    #    write your code here
+    
               
       
